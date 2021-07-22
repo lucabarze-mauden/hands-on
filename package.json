@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lucabarze-mauden/hands-on/issues"
   },
-  "homepage": "https://github.com/lucabarze-mauden/hands-on#readme"
+  "homepage": "https://github.com/lucabarze-mauden/hands-on#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
